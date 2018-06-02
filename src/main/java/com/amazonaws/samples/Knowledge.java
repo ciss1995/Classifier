@@ -3,13 +3,7 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * The NaiveBayesKnowledgeBase Object stores all the fields that the classifier
- * learns during training.
- * 
- * @author Vasilis Vryniotis <bbriniotis at datumbox.com>
- * @see <a href="http://blog.datumbox.com/developing-a-naive-bayes-text-classifier-in-java/">http://blog.datumbox.com/developing-a-naive-bayes-text-classifier-in-java/</a>
- */
+
 public class Knowledge implements Serializable{
     /**
 	 * 
